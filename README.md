@@ -12,7 +12,7 @@ Initially you will be logged in as admin user
   which says whether this access level is given to user or not
 * ***role name*** looks like a 3 digit binary like *011*. In a ***role name*** the most
   significant bit decides ***DELETE ACCESS***, next significant bit decides ***WRITE ACCESS***,
-  and the least significant bit decides ***READ ACCESS**
+  and the least significant bit decides ***READ ACCESS***
 * Initially 3 random roles are created out of 8 possibilities 
 
 ### HOW USER WORKS:
